@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.techpro-section, .features, .about, .choose, .subscribe {
+    padding: 50px 0;
+  }
+  .techpro-section {
+    background-color: #1c1c1c;
+    color: #fff;
+  }
+  .techpro-title {
+    color: #2b6bb0;
+    font-weight: bold;
+  }
+  .techpro-title span {
+    color: #1fb47f;
+  }
+  .price {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  .features h5 {
+    color: #2b6bb0;
+  }
+  .choose h2 {
+    color: #2b6bb0;
+  }
+  .subscribe {
+    background-color: #f8f9fa;
+  }
